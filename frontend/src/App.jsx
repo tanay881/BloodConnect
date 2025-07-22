@@ -8,7 +8,7 @@ import NeedBloodForPatients from './pages/NeedBloodForPatients'
 import Contact from './pages/Contact'
 import Login from './pages/Login'
 import Profile from './pages/Profile'
-import Footer from './Components/Footer'
+import Footer from './components/Footer'
 import ShowNearDonerPage from './pages/ShowNearDonerPage'
 import { ToastContainer } from 'react-toastify'
 
