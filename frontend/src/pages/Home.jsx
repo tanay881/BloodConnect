@@ -1,5 +1,5 @@
 import React from 'react'
-import Hero from '../Components/Hero'
+import Hero from '../components/Hero'
 import Achievements from '../components/Achievements'
 
 const Home = () => {
